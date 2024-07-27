@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/hoanghh2003/hoanghh2003/main/assets/header.png)
+
 
 # Hi there 👋, I'm Hoang
 
