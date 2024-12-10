@@ -1,6 +1,7 @@
 
 
-# Hi there 👋, I'm Hoang
+# Hi there 👋, I'm Duc
+
 
 ## About Me
 I'm a passionate developer with a love for creating impactful projects. Currently studying at [FPT University](https://fpt.edu.vn) and constantly exploring new technologies.
