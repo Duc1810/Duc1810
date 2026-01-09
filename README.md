@@ -40,7 +40,8 @@ Welcome to my GitHub! I'm a backend-focused software engineer with strong expert
 
 ## 📫 Connect with Me
 - ✉️ **Email:** nguyenbaminhduc2019@gmail.com  
-- 🔗 **GitHub:** https://github.com/Duc1810  
+- 🔗 **GitHub:** https://github.com/Duc1810
+- 💼 **LinkedIn:** https://www.linkedin.com/in/b%C3%A1-minh-%C4%91%E1%BB%A9c-nguy%E1%BB%85n-383728342
 - 📞 **Phone:** (+84) 0707 511 398
 
 ---
